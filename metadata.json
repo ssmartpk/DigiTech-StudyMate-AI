@@ -1,0 +1,6 @@
+{
+  "name": "DigiTech StudyMate AI",
+  "description": "Personal AI tutor for students and exam prep: interactive step-by-step tutoring, document summaries, AI quiz generator, spaced-repetition flashcards, and personalized study planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

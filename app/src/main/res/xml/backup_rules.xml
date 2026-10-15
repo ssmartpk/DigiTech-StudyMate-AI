@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude user preferences containing API credentials and local databases from legacy backup -->
+    <exclude domain="sharedpref" path="user_preferences.preferences_pb" />
+    <exclude domain="database" path="studymate_db" />
+</full-backup-content>
